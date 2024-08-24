@@ -59,6 +59,47 @@ ES
 - 🚀 Tecnologías: React, Node.js, MySQL, Desarrollo Móvil, Django (Framework web en Python), Angular (Framework de JavaScript), Flask (Framework web en Python)
 - 🤖 Explorando y aprendiendo en Inteligencia Artificial
 
+- 💻 Lenguajes:
+
+Java
+C++
+Python
+JavaScript
+TypeScript
+HTML5
+CSS3
+PHP
+Kotlin
+Bash
+Dart
+🚀 Tecnologías y Frameworks:
+
+React
+Node.js
+MySQL
+Desarrollo Móvil (Flutter, Android)
+Django (Framework web en Python)
+Angular (Framework de JavaScript)
+Flask (Framework web en Python)
+Spring Boot
+Bootstrap
+GraphQL
+Firebase
+⚙️ Herramientas y Plataformas:
+
+Maven
+Git
+Docker
+npm
+Postman
+VirtualBox
+Azure
+AWS
+🔗 Servicios y Protocolos:
+
+REST
+SOAP
+
   ## Proyectos Destacados
 
 1. **[Portfolio Website]**
