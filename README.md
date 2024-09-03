@@ -15,7 +15,7 @@ Welcome to my GitHub space! I'm passionate about software development across mul
 
 ## Technologies and Skills
 
-- 💻 Languages: Java, C++, Python, JavaScript, HTML, CSS, PHP
+- 💻 Languages: Java, C++, Python, JavaScript, HTML, CSS
 - 🚀 Technologies: React, Node.js, MySQL, Mobile Development, Django (Python web framework), Angular (JavaScript framework), Flask (Python web framework)
 - 🤖 Exploring and learning in Artificial Intelligence
 
@@ -55,7 +55,7 @@ ES
 
 ## Tecnologías y Habilidades
 
-- 💻 Lenguajes: Java, C++, Python, JavaScript, HTML, CSS, PHP
+- 💻 Lenguajes: Java, C++, Python, JavaScript, HTML, CSS
 - 🚀 Tecnologías: React, Node.js, MySQL, Desarrollo Móvil, Django (Framework web en Python), Angular (Framework de JavaScript), Flask (Framework web en Python)
 - 🤖 Explorando y aprendiendo en Inteligencia Artificial
 
