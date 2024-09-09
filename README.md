@@ -15,9 +15,12 @@ Welcome to my GitHub space! I'm passionate about software development across mul
 
 ## Technologies and Skills
 
-- 💻 Languages: Java, C++, Python, JavaScript, HTML, CSS
-- 🚀 Technologies: React, Node.js, MySQL, Mobile Development, Django (Python web framework), Angular (JavaScript framework), Flask (Python web framework)
-- 🤖 Exploring and learning in Artificial Intelligence
+- 💻 Lenguajes: Java, C++, Python, JavaScript, TypeScript, HTML5, CSS3, PHP (solo lo basico), Kotlin, Bash (solo lo basico), Dart
+- 🚀 Tecnologías: React, Node.js, MySQL, Desarrollo Móvil (Flutter, Android), Django (Framework web en Python), Angular (Framework de JavaScript), Flask (Framework web en Python) (solo lo basico), Spring Boot, Bootstrap, GraphQL (solo lo basico), Firebase
+- ⚙️ Herramientas y Plataformas: Maven, Git, Docker, npm, Postman, VirtualBox, Azure, AWS.
+- 🔗 Servicios y Protocolos: REST, SOAP
+- 🤖 Explorando y aprendiendo en Inteligencia Artificial
+
 
 ## Featured Projects
 
@@ -55,50 +58,12 @@ ES
 
 ## Tecnologías y Habilidades
 
-- 💻 Lenguajes: Java, C++, Python, JavaScript, HTML, CSS
-- 🚀 Tecnologías: React, Node.js, MySQL, Desarrollo Móvil, Django (Framework web en Python), Angular (Framework de JavaScript), Flask (Framework web en Python)
+- 💻 Lenguajes: Java, C++, Python, JavaScript, TypeScript, HTML5, CSS3, PHP (solo lo basico), Kotlin, Bash (solo lo basico), Dart
+- 🚀 Tecnologías: React, Node.js, MySQL, Desarrollo Móvil (Flutter, Android), Django (Framework web en Python), Angular (Framework de JavaScript), Flask (Framework web en Python) (solo lo basico), Spring Boot, Bootstrap, GraphQL (solo lo basico), Firebase
+- ⚙️ Herramientas y Plataformas: Maven, Git, Docker, npm, Postman, VirtualBox, Azure, AWS.
+- 🔗 Servicios y Protocolos: REST, SOAP
 - 🤖 Explorando y aprendiendo en Inteligencia Artificial
 
-- 💻 Lenguajes:
-
-Java
-C++
-Python
-JavaScript
-TypeScript
-HTML5
-CSS3
-PHP
-Kotlin
-Bash
-Dart
-🚀 Tecnologías y Frameworks:
-
-React
-Node.js
-MySQL
-Desarrollo Móvil (Flutter, Android)
-Django (Framework web en Python)
-Angular (Framework de JavaScript)
-Flask (Framework web en Python)
-Spring Boot
-Bootstrap
-GraphQL
-Firebase
-⚙️ Herramientas y Plataformas:
-
-Maven
-Git
-Docker
-npm
-Postman
-VirtualBox
-Azure
-AWS
-🔗 Servicios y Protocolos:
-
-REST
-SOAP
 
   ## Proyectos Destacados
 
